@@ -4,6 +4,16 @@
 	margin-right: auto;
 }
 
+#container h3 {
+	margin: 5px;
+}
+
+#container input {
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
 #grid {
 	height: 720px;
 	width: 720px;
